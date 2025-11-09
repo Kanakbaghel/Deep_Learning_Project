@@ -2,6 +2,9 @@
 <p align="center"><em> TechNest Task 2 : Fake and Real news dataset </em></p>
 
 ---
+ _Explore my more TechNest Tasks_ [Here](https://github.com/Kanakbaghel/TechNest-Internship)
+   -----------
+
 
 <img align="center" width="795" height="400" alt="image" src="https://github.com/user-attachments/assets/a44eee8f-11e5-40ff-984c-2fb05520e1fe" />
 
